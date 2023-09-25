@@ -1,4 +1,4 @@
-public class MSNMessenger {
+public class MsnMessenger {
     public void enviarMensagem() {
         validarConectadoInternet();
         System.out.println("Enviando mensagem");
